@@ -1,0 +1,36 @@
+_repo: The-Narrative-of-William-W.-Brown-a-Fugitive-Slave_15132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, William Wells
+    aliases:
+    - Brown, Wm. Wells (William Wells)
+    - Brown, W. Wells (William Wells)
+    deathdate: 1884
+    gutenberg_agent_id: '135'
+    url: http://www.gutenberg.org/2009/agents/135
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
+description: ''
+gutenberg_bookshelf:
+- African American Writers
+- Slavery
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Slaves -- United States -- Social conditions -- 19th century'
+- !lcsh 'Slaves -- Missouri -- Biography'
+- !lcsh 'Brown, William Wells, 1814?-1884'
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcc 'E300'
+title: The Narrative of William W. Brown, a Fugitive Slave
+url: http://www.gutenberg.org/ebooks/15132
